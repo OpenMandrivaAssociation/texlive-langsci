@@ -1,6 +1,6 @@
 Name:		texlive-langsci
-Version:	62061
-Release:	2
+Version:	65793
+Release:	1
 Summary:	Typeset books for publication with Language Science Press
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/langsci
