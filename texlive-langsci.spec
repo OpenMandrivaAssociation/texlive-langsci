@@ -1,5 +1,5 @@
 Name:		texlive-langsci
-Version:	70028
+Version:	73027
 Release:	1
 Summary:	Typeset books for publication with Language Science Press
 Group:		Publishing
